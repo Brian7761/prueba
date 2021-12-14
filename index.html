@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Expires" content="0">
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+    <form action="archivo.php" method="post" enctype="multipart/form-data" id="formulario">
+        <input type="text" name="nombre" placeholder="Tu nombre*" id="nombre" required/>
+        <input type="text" name="apellido" placeholder="Apellido*" id="apellido"/>
+        <input type="number" name="edad" placeholder="Tu edad" id="edad"/>
+        <input type="file" name="imagen" accept="image/*" id="imagen">
+        <button class="botton" type="submit">Enviar</button>
+        <div id="alerta"></div>
+    </form>
+    <button class="botton1" onclick="traer()">Ver Perfiles</button>
+    <div id="contenido"></div>
+</div>
+    <script src="main.js"></script>
+</body>
+</html>
