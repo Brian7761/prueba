@@ -1,0 +1,2192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="STAR CHANNEL">
+    <display-name lang="es">STAR CHANNEL</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="LIFETIME">
+    <display-name lang="es">LIFETIME</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="es">TNT Series</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="es">CARTOON NETWORK</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="es">Discovery Kids</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="es">Nickelodeon</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="es">Nick Jr</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="es">ID</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="es">Animal Planet</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Home &amp; Health">
+    <display-name lang="es">Home &amp; Health</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="es">History Channel</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="es">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="es">Discovery Science</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20220930000000 +0100" stop="20220930235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220930220000 -0300" stop="20221001004700 -0300" channel="STAR CHANNEL">
+    <title lang="es">Kingsman: El círculo dorado</title>
+  </programme>
+  <programme start="20221001005200 -0300" stop="20221001012200 -0300" channel="STAR CHANNEL">
+    <title lang="es">Familia moderna</title>
+  </programme>
+  <programme start="20221001012200 -0300" stop="20221001015100 -0300" channel="STAR CHANNEL">
+    <title lang="es">Familia moderna</title>
+  </programme>
+  <programme start="20221001015100 -0300" stop="20221001034500 -0300" channel="STAR CHANNEL">
+    <title lang="es">El hombre invisible</title>
+  </programme>
+  <programme start="20221001034500 -0300" stop="20221001052100 -0300" channel="STAR CHANNEL">
+    <title lang="es">Sin City: Una mujer para matar o morir</title>
+  </programme>
+  <programme start="20221001052100 -0300" stop="20221001070000 -0300" channel="STAR CHANNEL">
+    <title lang="es">Miamor perdido</title>
+  </programme>
+  <programme start="20221001070000 -0300" stop="20221001073000 -0300" channel="STAR CHANNEL">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001073000 -0300" stop="20221001080000 -0300" channel="STAR CHANNEL">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001080000 -0300" stop="20221001083000 -0300" channel="STAR CHANNEL">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001090000 -0300" channel="STAR CHANNEL">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001100000 -0300" channel="STAR CHANNEL">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001100000 -0300" stop="20221001101500 -0300" channel="STAR CHANNEL">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001101500 -0300" stop="20221001103200 -0300" channel="STAR CHANNEL">
+    <title lang="es">Programación especial</title>
+  </programme>
+  <programme start="20221001103200 -0300" stop="20221001112800 -0300" channel="STAR CHANNEL">
+    <title lang="es">Los expedientes secretos X</title>
+  </programme>
+  <programme start="20221001112800 -0300" stop="20221001122600 -0300" channel="STAR CHANNEL">
+    <title lang="es">Bones</title>
+  </programme>
+  <programme start="20221001122600 -0300" stop="20221001143300 -0300" channel="STAR CHANNEL">
+    <title lang="es">La boda de mi mejor amigo</title>
+  </programme>
+  <programme start="20221001143300 -0300" stop="20221001162100 -0300" channel="STAR CHANNEL">
+    <title lang="es">Recién casados</title>
+  </programme>
+  <programme start="20221001162100 -0300" stop="20221001184100 -0300" channel="STAR CHANNEL">
+    <title lang="es">Chicas armadas y peligrosas</title>
+  </programme>
+  <programme start="20221001184100 -0300" stop="20221001205600 -0300" channel="STAR CHANNEL">
+    <title lang="es">Sr. y Sra. Smith</title>
+  </programme>
+  <programme start="20221001205600 -0300" stop="20221001212800 -0300" channel="STAR CHANNEL">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20221001212800 -0300" stop="20221001220000 -0300" channel="STAR CHANNEL">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20221001220000 -0300" stop="20221001235600 -0300" channel="STAR CHANNEL">
+    <title lang="es">Sonic: la película</title>
+  </programme>
+  <programme start="20221001235600 -0300" stop="20221002002700 -0300" channel="STAR CHANNEL">
+    <title lang="es">Familia moderna</title>
+  </programme>
+  <programme start="20220930004000 -0300" stop="20220930022000 -0300" channel="LIFETIME">
+    <title lang="es">Cazadora de infieles</title>
+  </programme>
+  <programme start="20220930022000 -0300" stop="20220930040000 -0300" channel="LIFETIME">
+    <title lang="es">La esposa de mi esposo</title>
+  </programme>
+  <programme start="20220930040000 -0300" stop="20220930050000 -0300" channel="LIFETIME">
+    <title lang="es">Hijas de la poligamia</title>
+  </programme>
+  <programme start="20220930050000 -0300" stop="20220930060000 -0300" channel="LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres</title>
+  </programme>
+  <programme start="20220930060000 -0300" stop="20220930070000 -0300" channel="LIFETIME">
+    <title lang="es">Bring It!</title>
+  </programme>
+  <programme start="20220930070000 -0300" stop="20220930080000 -0300" channel="LIFETIME">
+    <title lang="es">Dance Moms</title>
+  </programme>
+  <programme start="20220930080000 -0300" stop="20220930090000 -0300" channel="LIFETIME">
+    <title lang="es">Corazón en la tierra</title>
+  </programme>
+  <programme start="20220930090000 -0300" stop="20220930100000 -0300" channel="LIFETIME">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220930100000 -0300" stop="20220930110000 -0300" channel="LIFETIME">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220930110000 -0300" stop="20220930120000 -0300" channel="LIFETIME">
+    <title lang="es">Glam Masters</title>
+  </programme>
+  <programme start="20220930120000 -0300" stop="20220930130000 -0300" channel="LIFETIME">
+    <title lang="es">Dance Moms</title>
+  </programme>
+  <programme start="20220930130000 -0300" stop="20220930140000 -0300" channel="LIFETIME">
+    <title lang="es">Corazón en la tierra</title>
+  </programme>
+  <programme start="20220930140000 -0300" stop="20220930154000 -0300" channel="LIFETIME">
+    <title lang="es">La casa de cupido</title>
+  </programme>
+  <programme start="20220930154000 -0300" stop="20220930164000 -0300" channel="LIFETIME">
+    <title lang="es">¿Por amor o por dinero?</title>
+  </programme>
+  <programme start="20220930164000 -0300" stop="20220930174000 -0300" channel="LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres</title>
+  </programme>
+  <programme start="20220930174000 -0300" stop="20220930184000 -0300" channel="LIFETIME">
+    <title lang="es">Amores que engañan</title>
+  </programme>
+  <programme start="20220930184000 -0300" stop="20220930194000 -0300" channel="LIFETIME">
+    <title lang="es">Morgana: la detective genial</title>
+  </programme>
+  <programme start="20220930194000 -0300" stop="20220930212000 -0300" channel="LIFETIME">
+    <title lang="es">Arquitecta del corazón</title>
+  </programme>
+  <programme start="20220930212000 -0300" stop="20220930230000 -0300" channel="LIFETIME">
+    <title lang="es">La asesina que conoció online</title>
+  </programme>
+  <programme start="20220930230000 -0300" stop="20221001004000 -0300" channel="LIFETIME">
+    <title lang="es">Traición mortal</title>
+  </programme>
+  <programme start="20220930230400 -0300" stop="20221001000700 -0300" channel="TNT Series">
+    <title lang="es">Line of Duty</title>
+  </programme>
+  <programme start="20221001011000 -0300" stop="20221001021100 -0300" channel="TNT Series">
+    <title lang="es">E.R. Emergencias</title>
+  </programme>
+  <programme start="20221001021100 -0300" stop="20221001025800 -0300" channel="TNT Series">
+    <title lang="es">E.R. Emergencias</title>
+  </programme>
+  <programme start="20221001025800 -0300" stop="20221001034200 -0300" channel="TNT Series">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20221001034200 -0300" stop="20221001042800 -0300" channel="TNT Series">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20221001042800 -0300" stop="20221001051300 -0300" channel="TNT Series">
+    <title lang="es">The Closer</title>
+  </programme>
+  <programme start="20221001051300 -0300" stop="20221001055800 -0300" channel="TNT Series">
+    <title lang="es">The Closer</title>
+  </programme>
+  <programme start="20221001055800 -0300" stop="20221001060000 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001060200 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001060200 -0300" stop="20221001060400 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001060400 -0300" stop="20221001060800 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001060800 -0300" stop="20221001061200 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001061200 -0300" stop="20221001061500 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001061500 -0300" stop="20221001061700 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001061700 -0300" stop="20221001062000 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001062000 -0300" stop="20221001062400 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001062400 -0300" stop="20221001062700 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001062700 -0300" stop="20221001062900 -0300" channel="TNT Series">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20221001062900 -0300" stop="20221001064000 -0300" channel="TNT Series">
+    <title lang="es">Hollywood One on One</title>
+  </programme>
+  <programme start="20221001064000 -0300" stop="20221001065100 -0300" channel="TNT Series">
+    <title lang="es">Hollywood One on One</title>
+  </programme>
+  <programme start="20221001065100 -0300" stop="20221001073600 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001073600 -0300" stop="20221001083000 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001093700 -0300" channel="TNT Series">
+    <title lang="es">E.R. Emergencias</title>
+  </programme>
+  <programme start="20221001093700 -0300" stop="20221001104300 -0300" channel="TNT Series">
+    <title lang="es">E.R. Emergencias</title>
+  </programme>
+  <programme start="20221001104300 -0300" stop="20221001114400 -0300" channel="TNT Series">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20221001114400 -0300" stop="20221001124700 -0300" channel="TNT Series">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20221001124700 -0300" stop="20221001135300 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001135300 -0300" stop="20221001145600 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001145600 -0300" stop="20221001155600 -0300" channel="TNT Series">
+    <title lang="es">The Closer</title>
+  </programme>
+  <programme start="20221001155600 -0300" stop="20221001165500 -0300" channel="TNT Series">
+    <title lang="es">The Closer</title>
+  </programme>
+  <programme start="20221001165500 -0300" stop="20221001175800 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001175800 -0300" stop="20221001185600 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001185600 -0300" stop="20221001200400 -0300" channel="TNT Series">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20221001200400 -0300" stop="20221001210100 -0300" channel="TNT Series">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20221001210100 -0300" stop="20221001220500 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001220500 -0300" stop="20221001230400 -0300" channel="TNT Series">
+    <title lang="es">La ley y el orden: U.V.E.</title>
+  </programme>
+  <programme start="20221001230400 -0300" stop="20221002002400 -0300" channel="TNT Series">
+    <title lang="es">Line of Duty</title>
+  </programme>
+  <programme start="20220930235000 -0300" stop="20221001000000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001000200 -0300" stop="20221001001600 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001001600 -0300" stop="20221001002700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001002700 -0300" stop="20221001003800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20221001003800 -0300" stop="20221001005300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20221001005300 -0300" stop="20221001010400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20221001010400 -0300" stop="20221001011800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001011800 -0300" stop="20221001013000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001013000 -0300" stop="20221001014300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001014300 -0300" stop="20221001015500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001015500 -0300" stop="20221001020600 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001020600 -0300" stop="20221001021800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001021800 -0300" stop="20221001022900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001022900 -0300" stop="20221001024100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001024100 -0300" stop="20221001025200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001025200 -0300" stop="20221001030300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001030300 -0300" stop="20221001031700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20221001031700 -0300" stop="20221001032800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20221001032800 -0300" stop="20221001034100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20221001034100 -0300" stop="20221001035200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Steven Universe</title>
+  </programme>
+  <programme start="20221001035200 -0300" stop="20221001040400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001040400 -0300" stop="20221001041800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001041800 -0300" stop="20221001043000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001043000 -0300" stop="20221001044300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001044300 -0300" stop="20221001045500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001045500 -0300" stop="20221001050600 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001050600 -0300" stop="20221001051900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001051900 -0300" stop="20221001053100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001053100 -0300" stop="20221001054200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001054200 -0300" stop="20221001054800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Any Malu Backstage</title>
+  </programme>
+  <programme start="20221001054800 -0300" stop="20221001060000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001061100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001061100 -0300" stop="20221001062400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001062400 -0300" stop="20221001063500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001063500 -0300" stop="20221001064600 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001064600 -0300" stop="20221001065700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001065700 -0300" stop="20221001070800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001070800 -0300" stop="20221001072000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001072000 -0300" stop="20221001073100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001073100 -0300" stop="20221001074400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20221001074400 -0300" stop="20221001075500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20221001075500 -0300" stop="20221001080700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001080700 -0300" stop="20221001081900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001081900 -0300" stop="20221001083100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001083100 -0300" stop="20221001084400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001084400 -0300" stop="20221001085500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001085500 -0300" stop="20221001090700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001090700 -0300" stop="20221001093000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Bakugan: Battle Planet</title>
+  </programme>
+  <programme start="20221001093000 -0300" stop="20221001095500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Power Rangers: Dino Fury</title>
+  </programme>
+  <programme start="20221001095500 -0300" stop="20221001100700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001100700 -0300" stop="20221001102300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001102300 -0300" stop="20221001103500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001103500 -0300" stop="20221001105300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001105300 -0300" stop="20221001110400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001110400 -0300" stop="20221001111500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Miau</title>
+  </programme>
+  <programme start="20221001111500 -0300" stop="20221001114700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Tom y Jerry en Nueva York</title>
+  </programme>
+  <programme start="20221001114700 -0300" stop="20221001115800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001115800 -0300" stop="20221001115900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Guau</title>
+  </programme>
+  <programme start="20221001115900 -0300" stop="20221001120000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Guau</title>
+  </programme>
+  <programme start="20221001120000 -0300" stop="20221001121700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001121700 -0300" stop="20221001122700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001122700 -0300" stop="20221001124400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20221001124400 -0300" stop="20221001125500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20221001125500 -0300" stop="20221001131300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001131300 -0300" stop="20221001132400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001132400 -0300" stop="20221001134200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001134200 -0300" stop="20221001135300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001135300 -0300" stop="20221001140500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001140500 -0300" stop="20221001141400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Any Malu Backstage</title>
+  </programme>
+  <programme start="20221001141400 -0300" stop="20221001142500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221001142500 -0300" stop="20221001145300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">LEGO Jurassic World: Leyenda de la isla Nublar</title>
+  </programme>
+  <programme start="20221001145300 -0300" stop="20221001150400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Ninjago</title>
+  </programme>
+  <programme start="20221001150400 -0300" stop="20221001152200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001152200 -0300" stop="20221001153300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001153300 -0300" stop="20221001155100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001155100 -0300" stop="20221001160200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001160200 -0300" stop="20221001161800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001161800 -0300" stop="20221001162900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001162900 -0300" stop="20221001164600 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001164600 -0300" stop="20221001165700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001165700 -0300" stop="20221001170800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001170800 -0300" stop="20221001172500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001172500 -0300" stop="20221001174300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001174300 -0300" stop="20221001175400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001175400 -0300" stop="20221001180500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001180500 -0300" stop="20221001182200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001182200 -0300" stop="20221001183300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001183300 -0300" stop="20221001184900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalositos</title>
+  </programme>
+  <programme start="20221001184900 -0300" stop="20221001190100 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalositos</title>
+  </programme>
+  <programme start="20221001190100 -0300" stop="20221001191800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221001191800 -0300" stop="20221001193500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001193500 -0300" stop="20221001194900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001194900 -0300" stop="20221001200000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+  </programme>
+  <programme start="20221001200000 -0300" stop="20221001211200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Barbie Mermaid Power</title>
+  </programme>
+  <programme start="20221001211200 -0300" stop="20221001212900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001212900 -0300" stop="20221001214400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001214400 -0300" stop="20221001215600 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+  <programme start="20221001215600 -0300" stop="20221001220700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Escandalositos</title>
+  </programme>
+  <programme start="20221001220700 -0300" stop="20221001222300 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Miau</title>
+  </programme>
+  <programme start="20221001222300 -0300" stop="20221001224800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Tom y Jerry en Nueva York</title>
+  </programme>
+  <programme start="20221001224800 -0300" stop="20221001225900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001225900 -0300" stop="20221001230000 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Guau</title>
+  </programme>
+  <programme start="20221001230000 -0300" stop="20221001230200 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Guau</title>
+  </programme>
+  <programme start="20221001230200 -0300" stop="20221001231800 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001231800 -0300" stop="20221001232900 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001232900 -0300" stop="20221001234400 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001234400 -0300" stop="20221001235500 -0300" channel="CARTOON NETWORK">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+  <programme start="20221001235500 -0300" stop="20221002000700 -0300" channel="CARTOON NETWORK">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220930233300 -0300" stop="20221001000000 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001000000 -0300" stop="20221001001200 -0300" channel="Discovery Kids">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20221001001200 -0300" stop="20221001002700 -0300" channel="Discovery Kids">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20221001002700 -0300" stop="20221001003900 -0300" channel="Discovery Kids">
+    <title lang="es">Ghostforce</title>
+  </programme>
+  <programme start="20221001003900 -0300" stop="20221001005400 -0300" channel="Discovery Kids">
+    <title lang="es">Ghostforce</title>
+  </programme>
+  <programme start="20221001005400 -0300" stop="20221001010600 -0300" channel="Discovery Kids">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20221001010600 -0300" stop="20221001012100 -0300" channel="Discovery Kids">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20221001012100 -0300" stop="20221001013300 -0300" channel="Discovery Kids">
+    <title lang="es">FriendZSpace</title>
+  </programme>
+  <programme start="20221001013300 -0300" stop="20221001014800 -0300" channel="Discovery Kids">
+    <title lang="es">FriendZSpace</title>
+  </programme>
+  <programme start="20221001014800 -0300" stop="20221001021000 -0300" channel="Discovery Kids">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20221001021000 -0300" stop="20221001023200 -0300" channel="Discovery Kids">
+    <title lang="es">100% lobo: la leyenda del anillo lunar</title>
+  </programme>
+  <programme start="20221001023200 -0300" stop="20221001024400 -0300" channel="Discovery Kids">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20221001024400 -0300" stop="20221001025600 -0300" channel="Discovery Kids">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20221001025600 -0300" stop="20221001030800 -0300" channel="Discovery Kids">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20221001030800 -0300" stop="20221001032000 -0300" channel="Discovery Kids">
+    <title lang="es">My Little Pony: Pony Life</title>
+  </programme>
+  <programme start="20221001032000 -0300" stop="20221001033200 -0300" channel="Discovery Kids">
+    <title lang="es">My Little Pony: Pony Life</title>
+  </programme>
+  <programme start="20221001033200 -0300" stop="20221001035400 -0300" channel="Discovery Kids">
+    <title lang="es">Frankie y los Zhu Zhu Pets</title>
+  </programme>
+  <programme start="20221001035400 -0300" stop="20221001040600 -0300" channel="Discovery Kids">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20221001040600 -0300" stop="20221001041800 -0300" channel="Discovery Kids">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20221001041800 -0300" stop="20221001043000 -0300" channel="Discovery Kids">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20221001043000 -0300" stop="20221001044200 -0300" channel="Discovery Kids">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20221001044200 -0300" stop="20221001045400 -0300" channel="Discovery Kids">
+    <title lang="es">Topo Gigio</title>
+  </programme>
+  <programme start="20221001045400 -0300" stop="20221001050600 -0300" channel="Discovery Kids">
+    <title lang="es">Topo Gigio</title>
+  </programme>
+  <programme start="20221001050600 -0300" stop="20221001051800 -0300" channel="Discovery Kids">
+    <title lang="es">Héroes en la playa</title>
+  </programme>
+  <programme start="20221001051800 -0300" stop="20221001053000 -0300" channel="Discovery Kids">
+    <title lang="es">Héroes en la playa</title>
+  </programme>
+  <programme start="20221001053000 -0300" stop="20221001053500 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001053500 -0300" stop="20221001054000 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001054000 -0300" stop="20221001054500 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001054500 -0300" stop="20221001055000 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001055000 -0300" stop="20221001055500 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001055500 -0300" stop="20221001060000 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001062300 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001062300 -0300" stop="20221001063100 -0300" channel="Discovery Kids">
+    <title lang="es">Weird Waters: el estanque mágico</title>
+  </programme>
+  <programme start="20221001063100 -0300" stop="20221001063900 -0300" channel="Discovery Kids">
+    <title lang="es">Weird Waters: el estanque mágico</title>
+  </programme>
+  <programme start="20221001063900 -0300" stop="20221001065000 -0300" channel="Discovery Kids">
+    <title lang="es">Weird Waters: el estanque mágico</title>
+  </programme>
+  <programme start="20221001065000 -0300" stop="20221001070200 -0300" channel="Discovery Kids">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20221001070200 -0300" stop="20221001071400 -0300" channel="Discovery Kids">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20221001071400 -0300" stop="20221001072600 -0300" channel="Discovery Kids">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20221001072600 -0300" stop="20221001074100 -0300" channel="Discovery Kids">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20221001074100 -0300" stop="20221001075300 -0300" channel="Discovery Kids">
+    <title lang="es">Héroes en la playa</title>
+  </programme>
+  <programme start="20221001075300 -0300" stop="20221001080500 -0300" channel="Discovery Kids">
+    <title lang="es">Héroes en la playa</title>
+  </programme>
+  <programme start="20221001080500 -0300" stop="20221001081000 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001081000 -0300" stop="20221001081500 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001081500 -0300" stop="20221001082300 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001082300 -0300" stop="20221001082800 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001082800 -0300" stop="20221001083300 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001083300 -0300" stop="20221001090000 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001091200 -0300" channel="Discovery Kids">
+    <title lang="es">Topo Gigio</title>
+  </programme>
+  <programme start="20221001091200 -0300" stop="20221001092400 -0300" channel="Discovery Kids">
+    <title lang="es">Topo Gigio</title>
+  </programme>
+  <programme start="20221001092400 -0300" stop="20221001092900 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001092900 -0300" stop="20221001093800 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001093800 -0300" stop="20221001094300 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001094300 -0300" stop="20221001095200 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001095200 -0300" stop="20221001095700 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001095700 -0300" stop="20221001100200 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001100200 -0300" stop="20221001101400 -0300" channel="Discovery Kids">
+    <title lang="es">Campamento S.M.A.S.H.</title>
+  </programme>
+  <programme start="20221001101400 -0300" stop="20221001103000 -0300" channel="Discovery Kids">
+    <title lang="es">Los Beachbuds</title>
+  </programme>
+  <programme start="20221001103000 -0300" stop="20221001103500 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001103500 -0300" stop="20221001110200 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001110200 -0300" stop="20221001110700 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001110700 -0300" stop="20221001111200 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001111200 -0300" stop="20221001112100 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001112100 -0300" stop="20221001112600 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001112600 -0300" stop="20221001113100 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001113100 -0300" stop="20221001113600 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001113600 -0300" stop="20221001120300 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001120300 -0300" stop="20221001121500 -0300" channel="Discovery Kids">
+    <title lang="es">Metegol Underdogs United</title>
+  </programme>
+  <programme start="20221001121500 -0300" stop="20221001123100 -0300" channel="Discovery Kids">
+    <title lang="es">Metegol Underdogs United</title>
+  </programme>
+  <programme start="20221001123100 -0300" stop="20221001125800 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001125800 -0300" stop="20221001132500 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001132500 -0300" stop="20221001133700 -0300" channel="Discovery Kids">
+    <title lang="es">Ba da Bean</title>
+  </programme>
+  <programme start="20221001133700 -0300" stop="20221001134900 -0300" channel="Discovery Kids">
+    <title lang="es">Pinocho y sus amigos</title>
+  </programme>
+  <programme start="20221001134900 -0300" stop="20221001140500 -0300" channel="Discovery Kids">
+    <title lang="es">Las aventuras de Dog y Pony</title>
+  </programme>
+  <programme start="20221001140500 -0300" stop="20221001143200 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001143200 -0300" stop="20221001144400 -0300" channel="Discovery Kids">
+    <title lang="es">Ghostforce</title>
+  </programme>
+  <programme start="20221001144400 -0300" stop="20221001150000 -0300" channel="Discovery Kids">
+    <title lang="es">Ghostforce</title>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001151200 -0300" channel="Discovery Kids">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20221001151200 -0300" stop="20221001152800 -0300" channel="Discovery Kids">
+    <title lang="es">Kung Fu Wa</title>
+  </programme>
+  <programme start="20221001152800 -0300" stop="20221001153300 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001153300 -0300" stop="20221001160000 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001160000 -0300" stop="20221001161200 -0300" channel="Discovery Kids">
+    <title lang="es">¡Agente Binky al rescate!</title>
+  </programme>
+  <programme start="20221001161200 -0300" stop="20221001163900 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001163900 -0300" stop="20221001165100 -0300" channel="Discovery Kids">
+    <title lang="es">FriendZSpace</title>
+  </programme>
+  <programme start="20221001165100 -0300" stop="20221001170700 -0300" channel="Discovery Kids">
+    <title lang="es">FriendZSpace</title>
+  </programme>
+  <programme start="20221001170700 -0300" stop="20221001173400 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001173400 -0300" stop="20221001174600 -0300" channel="Discovery Kids">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20221001174600 -0300" stop="20221001180200 -0300" channel="Discovery Kids">
+    <title lang="es">¡Presto! Escuela de magia</title>
+  </programme>
+  <programme start="20221001180200 -0300" stop="20221001181400 -0300" channel="Discovery Kids">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20221001181400 -0300" stop="20221001183000 -0300" channel="Discovery Kids">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20221001183000 -0300" stop="20221001184200 -0300" channel="Discovery Kids">
+    <title lang="es">Héroes en la playa</title>
+  </programme>
+  <programme start="20221001184200 -0300" stop="20221001184700 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001184700 -0300" stop="20221001185600 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001185600 -0300" stop="20221001190100 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001190100 -0300" stop="20221001190600 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001190600 -0300" stop="20221001191800 -0300" channel="Discovery Kids">
+    <title lang="es">Pinocho en la villa encantada</title>
+  </programme>
+  <programme start="20221001191800 -0300" stop="20221001204600 -0300" channel="Discovery Kids">
+    <title lang="es">La casa de los sustos</title>
+  </programme>
+  <programme start="20221001204600 -0300" stop="20221001205800 -0300" channel="Discovery Kids">
+    <title lang="es">Ghostforce</title>
+  </programme>
+  <programme start="20221001205800 -0300" stop="20221001211400 -0300" channel="Discovery Kids">
+    <title lang="es">Ghostforce</title>
+  </programme>
+  <programme start="20221001211400 -0300" stop="20221001214100 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001214100 -0300" stop="20221001214600 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001214600 -0300" stop="20221001215500 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001215500 -0300" stop="20221001215900 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001215900 -0300" stop="20221001220400 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001220400 -0300" stop="20221001221600 -0300" channel="Discovery Kids">
+    <title lang="es">Metegol Underdogs United</title>
+  </programme>
+  <programme start="20221001221600 -0300" stop="20221001222100 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20221001222100 -0300" stop="20221001224800 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001224800 -0300" stop="20221001231500 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20221001231500 -0300" stop="20221001232000 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001232000 -0300" stop="20221001232800 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001232800 -0300" stop="20221001233300 -0300" channel="Discovery Kids">
+    <title lang="es">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20221001233300 -0300" stop="20221002000000 -0300" channel="Discovery Kids">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20220930233000 -0300" stop="20221001000000 -0300" channel="Disney Channel">
+    <title lang="es">Grandes héroes: la serie</title>
+  </programme>
+  <programme start="20221001000900 -0300" stop="20221001003600 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20221001003600 -0300" stop="20221001010600 -0300" channel="Disney Channel">
+    <title lang="es">Secretos en Sulphur Springs</title>
+  </programme>
+  <programme start="20221001010600 -0300" stop="20221001013500 -0300" channel="Disney Channel">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+  </programme>
+  <programme start="20221001013500 -0300" stop="20221001020300 -0300" channel="Disney Channel">
+    <title lang="es">La casa de Raven</title>
+  </programme>
+  <programme start="20221001020300 -0300" stop="20221001023200 -0300" channel="Disney Channel">
+    <title lang="es">Gabby Duran: niñera de aliens</title>
+  </programme>
+  <programme start="20221001023200 -0300" stop="20221001025900 -0300" channel="Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20221001025900 -0300" stop="20221001032200 -0300" channel="Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20221001032200 -0300" stop="20221001034500 -0300" channel="Disney Channel">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20221001034500 -0300" stop="20221001040800 -0300" channel="Disney Channel">
+    <title lang="es">¡Vete ya, Unicornio!</title>
+  </programme>
+  <programme start="20221001040800 -0300" stop="20221001043000 -0300" channel="Disney Channel">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+  </programme>
+  <programme start="20221001043000 -0300" stop="20221001045200 -0300" channel="Disney Channel">
+    <title lang="es">Hotel Transylvania: la serie</title>
+  </programme>
+  <programme start="20221001045200 -0300" stop="20221001051500 -0300" channel="Disney Channel">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20221001051500 -0300" stop="20221001053700 -0300" channel="Disney Channel">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20221001053700 -0300" stop="20221001060000 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001062500 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20221001062500 -0300" stop="20221001065000 -0300" channel="Disney Channel">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20221001065000 -0300" stop="20221001070300 -0300" channel="Disney Channel">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20221001070300 -0300" stop="20221001073100 -0300" channel="Disney Channel">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20221001073100 -0300" stop="20221001074700 -0300" channel="Disney Channel">
+    <title lang="es">Las aventuras de Pilar</title>
+  </programme>
+  <programme start="20221001074700 -0300" stop="20221001080000 -0300" channel="Disney Channel">
+    <title lang="es">Cortos Mickey Mouse</title>
+  </programme>
+  <programme start="20221001080000 -0300" stop="20221001082700 -0300" channel="Disney Channel">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20221001082700 -0300" stop="20221001083800 -0300" channel="Disney Channel">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20221001083800 -0300" stop="20221001084900 -0300" channel="Disney Channel">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20221001084900 -0300" stop="20221001090100 -0300" channel="Disney Channel">
+    <title lang="es">¡Vete ya, Unicornio!</title>
+  </programme>
+  <programme start="20221001090100 -0300" stop="20221001092800 -0300" channel="Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20221001092800 -0300" stop="20221001094000 -0300" channel="Disney Channel">
+    <title lang="es">Hotel Transylvania: la serie</title>
+  </programme>
+  <programme start="20221001094000 -0300" stop="20221001100600 -0300" channel="Disney Channel">
+    <title lang="es">Grandes héroes: la serie</title>
+  </programme>
+  <programme start="20221001100600 -0300" stop="20221001101800 -0300" channel="Disney Channel">
+    <title lang="es">El fantasma y Molly McGee</title>
+  </programme>
+  <programme start="20221001101800 -0300" stop="20221001103000 -0300" channel="Disney Channel">
+    <title lang="es">Hotel Transylvania: la serie</title>
+  </programme>
+  <programme start="20221001103000 -0300" stop="20221001110000 -0300" channel="Disney Channel">
+    <title lang="es">The Owl House</title>
+  </programme>
+  <programme start="20221001110000 -0300" stop="20221001112700 -0300" channel="Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20221001112700 -0300" stop="20221001115600 -0300" channel="Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20221001115600 -0300" stop="20221001122400 -0300" channel="Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20221001122400 -0300" stop="20221001125900 -0300" channel="Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20221001125900 -0300" stop="20221001132800 -0300" channel="Disney Channel">
+    <title lang="es">Hannah Montana</title>
+  </programme>
+  <programme start="20221001132800 -0300" stop="20221001135700 -0300" channel="Disney Channel">
+    <title lang="es">Austin y Ally</title>
+  </programme>
+  <programme start="20221001135700 -0300" stop="20221001142500 -0300" channel="Disney Channel">
+    <title lang="es">Atrapada en el medio</title>
+  </programme>
+  <programme start="20221001142500 -0300" stop="20221001150000 -0300" channel="Disney Channel">
+    <title lang="es">Zack y Cody: gemelos a bordo</title>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001152800 -0300" channel="Disney Channel">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+  </programme>
+  <programme start="20221001152800 -0300" stop="20221001160000 -0300" channel="Disney Channel">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20221001160000 -0300" stop="20221001163200 -0300" channel="Disney Channel">
+    <title lang="es">La casa de Raven</title>
+  </programme>
+  <programme start="20221001163200 -0300" stop="20221001170200 -0300" channel="Disney Channel">
+    <title lang="es">Gabby Duran: niñera de aliens</title>
+  </programme>
+  <programme start="20221001170200 -0300" stop="20221001171500 -0300" channel="Disney Channel">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20221001171500 -0300" stop="20221001190000 -0300" channel="Disney Channel">
+    <title lang="es">Matilda</title>
+  </programme>
+  <programme start="20221001190000 -0300" stop="20221001193100 -0300" channel="Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20221001193100 -0300" stop="20221001200400 -0300" channel="Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20221001200400 -0300" stop="20221001214700 -0300" channel="Disney Channel">
+    <title lang="es">¡Alucinante!</title>
+  </programme>
+  <programme start="20221001214700 -0300" stop="20221001220000 -0300" channel="Disney Channel">
+    <title lang="es">Hotel Transylvania: la serie</title>
+  </programme>
+  <programme start="20221001220000 -0300" stop="20221001234900 -0300" channel="Disney Channel">
+    <title lang="es">Escalofríos</title>
+  </programme>
+  <programme start="20221001234900 -0300" stop="20221002001800 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20220930233000 -0300" stop="20221001000000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001000000 -0300" stop="20221001003000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001003000 -0300" stop="20221001010000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001010000 -0300" stop="20221001013000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001013000 -0300" stop="20221001020000 -0300" channel="Nickelodeon">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20221001020000 -0300" stop="20221001023000 -0300" channel="Nickelodeon">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20221001023000 -0300" stop="20221001030000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001030000 -0300" stop="20221001033000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001033000 -0300" stop="20221001040000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001040000 -0300" stop="20221001043000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001043000 -0300" stop="20221001050000 -0300" channel="Nickelodeon">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20221001050000 -0300" stop="20221001053000 -0300" channel="Nickelodeon">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20221001053000 -0300" stop="20221001060000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001063000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001063000 -0300" stop="20221001070000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001070000 -0300" stop="20221001073000 -0300" channel="Nickelodeon">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+  <programme start="20221001073000 -0300" stop="20221001080000 -0300" channel="Nickelodeon">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+  <programme start="20221001080000 -0300" stop="20221001083000 -0300" channel="Nickelodeon">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001090000 -0300" channel="Nickelodeon">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001093000 -0300" channel="Nickelodeon">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+  <programme start="20221001093000 -0300" stop="20221001100000 -0300" channel="Nickelodeon">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+  <programme start="20221001100000 -0300" stop="20221001103000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001103000 -0300" stop="20221001110000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001110000 -0300" stop="20221001113000 -0300" channel="Nickelodeon">
+    <title lang="es">Nate, el grande</title>
+  </programme>
+  <programme start="20221001113000 -0300" stop="20221001120000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001120000 -0300" stop="20221001123000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001123000 -0300" stop="20221001130000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001130000 -0300" stop="20221001133000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001133000 -0300" stop="20221001140000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001140000 -0300" stop="20221001143000 -0300" channel="Nickelodeon">
+    <title lang="es">Es Pony</title>
+  </programme>
+  <programme start="20221001143000 -0300" stop="20221001150000 -0300" channel="Nickelodeon">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001153000 -0300" channel="Nickelodeon">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20221001153000 -0300" stop="20221001154500 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001154500 -0300" stop="20221001160000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001160000 -0300" stop="20221001161500 -0300" channel="Nickelodeon">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+  <programme start="20221001161500 -0300" stop="20221001163000 -0300" channel="Nickelodeon">
+    <title lang="es">Rugrats</title>
+  </programme>
+  <programme start="20221001163000 -0300" stop="20221001164500 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001164500 -0300" stop="20221001170000 -0300" channel="Nickelodeon">
+    <title lang="es">Taller de Josué</title>
+  </programme>
+  <programme start="20221001170000 -0300" stop="20221001173000 -0300" channel="Nickelodeon">
+    <title lang="es">Fuerza Danger</title>
+  </programme>
+  <programme start="20221001173000 -0300" stop="20221001180000 -0300" channel="Nickelodeon">
+    <title lang="es">Fuerza Danger</title>
+  </programme>
+  <programme start="20221001180000 -0300" stop="20221001181500 -0300" channel="Nickelodeon">
+    <title lang="es">Kamp Koral: Bob Esponja, primeros años!</title>
+  </programme>
+  <programme start="20221001181500 -0300" stop="20221001183000 -0300" channel="Nickelodeon">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20221001183000 -0300" stop="20221001184500 -0300" channel="Nickelodeon">
+    <title lang="es">Nick Master</title>
+  </programme>
+  <programme start="20221001184500 -0300" stop="20221001190000 -0300" channel="Nickelodeon">
+    <title lang="es">Nick Master</title>
+  </programme>
+  <programme start="20221001190000 -0300" stop="20221001193000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001193000 -0300" stop="20221001200000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001200000 -0300" stop="20221001203000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001203000 -0300" stop="20221001210000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001210000 -0300" stop="20221001213000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001213000 -0300" stop="20221001220000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20221001220000 -0300" stop="20221001223000 -0300" channel="Nickelodeon">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+  <programme start="20221001223000 -0300" stop="20221001230000 -0300" channel="Nickelodeon">
+    <title lang="es">Henry Danger</title>
+  </programme>
+  <programme start="20221001230000 -0300" stop="20221001233000 -0300" channel="Nickelodeon">
+    <title lang="es">Fuerza Danger</title>
+  </programme>
+  <programme start="20221001233000 -0300" stop="20221002000000 -0300" channel="Nickelodeon">
+    <title lang="es">Fuerza Danger</title>
+  </programme>
+  <programme start="20220930233000 -0300" stop="20221001000000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+  <programme start="20221001000000 -0300" stop="20221001003000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+  <programme start="20221001003000 -0300" stop="20221001010000 -0300" channel="Nick Jr">
+    <title lang="es">Rusty Rivets</title>
+  </programme>
+  <programme start="20221001010000 -0300" stop="20221001013000 -0300" channel="Nick Jr">
+    <title lang="es">Butterbean’s Café</title>
+  </programme>
+  <programme start="20221001013000 -0300" stop="20221001020000 -0300" channel="Nick Jr">
+    <title lang="es">Dora y sus amigos</title>
+  </programme>
+  <programme start="20221001020000 -0300" stop="20221001021500 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+  <programme start="20221001021500 -0300" stop="20221001023000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+  <programme start="20221001023000 -0300" stop="20221001030000 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+  <programme start="20221001030000 -0300" stop="20221001033000 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+  <programme start="20221001033000 -0300" stop="20221001040000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+  <programme start="20221001040000 -0300" stop="20221001043000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+  <programme start="20221001043000 -0300" stop="20221001050000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001050000 -0300" stop="20221001053000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001053000 -0300" stop="20221001060000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001063000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+  <programme start="20221001063000 -0300" stop="20221001070000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+  <programme start="20221001070000 -0300" stop="20221001073000 -0300" channel="Nick Jr">
+    <title lang="es">Dora, la exploradora</title>
+  </programme>
+  <programme start="20221001073000 -0300" stop="20221001080000 -0300" channel="Nick Jr">
+    <title lang="es">Dora, la exploradora</title>
+  </programme>
+  <programme start="20221001080000 -0300" stop="20221001083000 -0300" channel="Nick Jr">
+    <title lang="es">Dora, la exploradora</title>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001090000 -0300" channel="Nick Jr">
+    <title lang="es">Deer Squad</title>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001091500 -0300" channel="Nick Jr">
+    <title lang="es">Ositos Cariñositos: libera la magia</title>
+  </programme>
+  <programme start="20221001091500 -0300" stop="20221001093000 -0300" channel="Nick Jr">
+    <title lang="es">Ositos Cariñositos: libera la magia</title>
+  </programme>
+  <programme start="20221001093000 -0300" stop="20221001094500 -0300" channel="Nick Jr">
+    <title lang="es">Ositos Cariñositos: libera la magia</title>
+  </programme>
+  <programme start="20221001094500 -0300" stop="20221001100000 -0300" channel="Nick Jr">
+    <title lang="es">Ositos Cariñositos: libera la magia</title>
+  </programme>
+  <programme start="20221001100000 -0300" stop="20221001103000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+  <programme start="20221001103000 -0300" stop="20221001110000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001110000 -0300" stop="20221001113000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+  <programme start="20221001113000 -0300" stop="20221001120000 -0300" channel="Nick Jr">
+    <title lang="es">Rugrats</title>
+  </programme>
+  <programme start="20221001120000 -0300" stop="20221001123000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+  <programme start="20221001123000 -0300" stop="20221001130000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+  <programme start="20221001130000 -0300" stop="20221001133000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001133000 -0300" stop="20221001140000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001140000 -0300" stop="20221001143000 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+  <programme start="20221001143000 -0300" stop="20221001150000 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001153000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001153000 -0300" stop="20221001160000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001160000 -0300" stop="20221001161500 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+  <programme start="20221001161500 -0300" stop="20221001163000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+  <programme start="20221001163000 -0300" stop="20221001170000 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+  <programme start="20221001170000 -0300" stop="20221001173000 -0300" channel="Nick Jr">
+    <title lang="es">Rugrats</title>
+  </programme>
+  <programme start="20221001173000 -0300" stop="20221001180000 -0300" channel="Nick Jr">
+    <title lang="es">Top Wing</title>
+  </programme>
+  <programme start="20221001180000 -0300" stop="20221001183000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001183000 -0300" stop="20221001190000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001190000 -0300" stop="20221001193000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+  <programme start="20221001193000 -0300" stop="20221001200000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+  <programme start="20221001200000 -0300" stop="20221001203000 -0300" channel="Nick Jr">
+    <title lang="es">Rugrats</title>
+  </programme>
+  <programme start="20221001203000 -0300" stop="20221001210000 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+  <programme start="20221001210000 -0300" stop="20221001213000 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+  <programme start="20221001213000 -0300" stop="20221001220000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+  <programme start="20221001220000 -0300" stop="20221001223000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001223000 -0300" stop="20221001230000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+  <programme start="20221001230000 -0300" stop="20221001233000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+  <programme start="20221001233000 -0300" stop="20221002000000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+  <programme start="20220930230000 -0300" stop="20221001000000 -0300" channel="ID">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20221001000000 -0300" stop="20221001005600 -0300" channel="ID">
+    <title lang="es">Cazador de asesinos</title>
+  </programme>
+  <programme start="20221001005600 -0300" stop="20221001015200 -0300" channel="ID">
+    <title lang="es">Cazador de asesinos</title>
+  </programme>
+  <programme start="20221001015200 -0300" stop="20221001024400 -0300" channel="ID">
+    <title lang="es">Escena del crimen con Tony Harris</title>
+  </programme>
+  <programme start="20221001024400 -0300" stop="20221001033300 -0300" channel="ID">
+    <title lang="es">Escena del crimen con Tony Harris</title>
+  </programme>
+  <programme start="20221001033300 -0300" stop="20221001042200 -0300" channel="ID">
+    <title lang="es">Persecución con John Walsh</title>
+  </programme>
+  <programme start="20221001042200 -0300" stop="20221001051100 -0300" channel="ID">
+    <title lang="es">Más allá de la duda</title>
+  </programme>
+  <programme start="20221001051100 -0300" stop="20221001060000 -0300" channel="ID">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001070000 -0300" channel="ID">
+    <title lang="es">Perfecto desconocido</title>
+  </programme>
+  <programme start="20221001070000 -0300" stop="20221001080000 -0300" channel="ID">
+    <title lang="es">Perfecto desconocido</title>
+  </programme>
+  <programme start="20221001080000 -0300" stop="20221001083000 -0300" channel="ID">
+    <title lang="es">Encuentros infernales</title>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001090000 -0300" channel="ID">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001093000 -0300" channel="ID">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20221001093000 -0300" stop="20221001100000 -0300" channel="ID">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20221001100000 -0300" stop="20221001110000 -0300" channel="ID">
+    <title lang="es">Perfecto desconocido</title>
+  </programme>
+  <programme start="20221001110000 -0300" stop="20221001120000 -0300" channel="ID">
+    <title lang="es">Perfecto desconocido</title>
+  </programme>
+  <programme start="20221001120000 -0300" stop="20221001130000 -0300" channel="ID">
+    <title lang="es">Crímenes del pasado</title>
+  </programme>
+  <programme start="20221001130000 -0300" stop="20221001140000 -0300" channel="ID">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20221001140000 -0300" stop="20221001150000 -0300" channel="ID">
+    <title lang="es">Viviendo una pesadilla</title>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001160000 -0300" channel="ID">
+    <title lang="es">Viviendo una pesadilla</title>
+  </programme>
+  <programme start="20221001160000 -0300" stop="20221001170000 -0300" channel="ID">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20221001170000 -0300" stop="20221001180000 -0300" channel="ID">
+    <title lang="es">Hermanas perversas</title>
+  </programme>
+  <programme start="20221001180000 -0300" stop="20221001190000 -0300" channel="ID">
+    <title lang="es">Hermanas perversas</title>
+  </programme>
+  <programme start="20221001190000 -0300" stop="20221001200000 -0300" channel="ID">
+    <title lang="es">Traicionados</title>
+  </programme>
+  <programme start="20221001200000 -0300" stop="20221001210000 -0300" channel="ID">
+    <title lang="es">Traicionados</title>
+  </programme>
+  <programme start="20221001210000 -0300" stop="20221001220000 -0300" channel="ID">
+    <title lang="es">Perfecto desconocido</title>
+  </programme>
+  <programme start="20221001220000 -0300" stop="20221001230000 -0300" channel="ID">
+    <title lang="es">Perfecto desconocido</title>
+  </programme>
+  <programme start="20221001230000 -0300" stop="20221002000000 -0300" channel="ID">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20220930235500 -0300" stop="20221001002400 -0300" channel="Animal Planet">
+    <title lang="es">Night</title>
+  </programme>
+  <programme start="20221001002400 -0300" stop="20221001005300 -0300" channel="Animal Planet">
+    <title lang="es">Night</title>
+  </programme>
+  <programme start="20221001005300 -0300" stop="20221001014800 -0300" channel="Animal Planet">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20221001014800 -0300" stop="20221001024600 -0300" channel="Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20221001024600 -0300" stop="20221001034200 -0300" channel="Animal Planet">
+    <title lang="es">Guardianes al rescate</title>
+  </programme>
+  <programme start="20221001034200 -0300" stop="20221001043800 -0300" channel="Animal Planet">
+    <title lang="es">Ciencia al rescate</title>
+  </programme>
+  <programme start="20221001043800 -0300" stop="20221001053400 -0300" channel="Animal Planet">
+    <title lang="es">Wild Frank: al rescate</title>
+  </programme>
+  <programme start="20221001053400 -0300" stop="20221001060000 -0300" channel="Animal Planet">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001063000 -0300" channel="Animal Planet">
+    <title lang="es">Guardianes de Borneo</title>
+  </programme>
+  <programme start="20221001063000 -0300" stop="20221001073000 -0300" channel="Animal Planet">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20221001073000 -0300" stop="20221001083000 -0300" channel="Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001090000 -0300" channel="Animal Planet">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001093000 -0300" channel="Animal Planet">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20221001093000 -0300" stop="20221001100000 -0300" channel="Animal Planet">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20221001100000 -0300" stop="20221001102400 -0300" channel="Animal Planet">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20221001102400 -0300" stop="20221001112200 -0300" channel="Animal Planet">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20221001112200 -0300" stop="20221001121600 -0300" channel="Animal Planet">
+    <title lang="es">Con el agua al cuello: sin filtro</title>
+  </programme>
+  <programme start="20221001121600 -0300" stop="20221001131400 -0300" channel="Animal Planet">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20221001131400 -0300" stop="20221001141200 -0300" channel="Animal Planet">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20221001141200 -0300" stop="20221001151100 -0300" channel="Animal Planet">
+    <title lang="es">Piscinas increíbles</title>
+  </programme>
+  <programme start="20221001151100 -0300" stop="20221001160900 -0300" channel="Animal Planet">
+    <title lang="es">Islas de Indonesia</title>
+  </programme>
+  <programme start="20221001160900 -0300" stop="20221001163800 -0300" channel="Animal Planet">
+    <title lang="es">La vida en Yellowstone</title>
+  </programme>
+  <programme start="20221001163800 -0300" stop="20221001170700 -0300" channel="Animal Planet">
+    <title lang="es">La vida en Yellowstone</title>
+  </programme>
+  <programme start="20221001170700 -0300" stop="20221001173600 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001173600 -0300" stop="20221001180500 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001180500 -0300" stop="20221001190300 -0300" channel="Animal Planet">
+    <title lang="es">Wild Frank en África</title>
+  </programme>
+  <programme start="20221001190300 -0300" stop="20221001200200 -0300" channel="Animal Planet">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20221001200200 -0300" stop="20221001210000 -0300" channel="Animal Planet">
+    <title lang="es">Guardianes del pantano</title>
+  </programme>
+  <programme start="20221001210000 -0300" stop="20221001212900 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001212900 -0300" stop="20221001215800 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001215800 -0300" stop="20221001222700 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001222700 -0300" stop="20221001225600 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001225600 -0300" stop="20221001232500 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001232500 -0300" stop="20221001235400 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20221001235400 -0300" stop="20221002002300 -0300" channel="Animal Planet">
+    <title lang="es">Santuario de orangutanes</title>
+  </programme>
+  <programme start="20220930234600 -0300" stop="20221001004200 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20221001004200 -0300" stop="20221001013800 -0300" channel="Discovery Channel">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20221001013800 -0300" stop="20221001031600 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20221001031600 -0300" stop="20221001044800 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20221001044800 -0300" stop="20221001053400 -0300" channel="Discovery Channel">
+    <title lang="es">Historias de fantasmas</title>
+  </programme>
+  <programme start="20221001053400 -0300" stop="20221001060000 -0300" channel="Discovery Channel">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001062600 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto de São Paulo</title>
+  </programme>
+  <programme start="20221001062600 -0300" stop="20221001065200 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto de São Paulo</title>
+  </programme>
+  <programme start="20221001065200 -0300" stop="20221001073800 -0300" channel="Discovery Channel">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20221001073800 -0300" stop="20221001082400 -0300" channel="Discovery Channel">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20221001082400 -0300" stop="20221001084800 -0300" channel="Discovery Channel">
+    <title lang="es">Descubre cómo</title>
+  </programme>
+  <programme start="20221001084800 -0300" stop="20221001091200 -0300" channel="Discovery Channel">
+    <title lang="es">Descubre cómo</title>
+  </programme>
+  <programme start="20221001091200 -0300" stop="20221001100600 -0300" channel="Discovery Channel">
+    <title lang="es">Cambio de velocidad con Aaron Kaufman</title>
+  </programme>
+  <programme start="20221001100600 -0300" stop="20221001110100 -0300" channel="Discovery Channel">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20221001110100 -0300" stop="20221001115600 -0300" channel="Discovery Channel">
+    <title lang="es">Pesca mortal: experiencia extrema</title>
+  </programme>
+  <programme start="20221001115600 -0300" stop="20221001125100 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20221001125100 -0300" stop="20221001134600 -0300" channel="Discovery Channel">
+    <title lang="es">Desafío x2</title>
+  </programme>
+  <programme start="20221001134600 -0300" stop="20221001144100 -0300" channel="Discovery Channel">
+    <title lang="es">Multimillonario encubierto</title>
+  </programme>
+  <programme start="20221001144100 -0300" stop="20221001153700 -0300" channel="Discovery Channel">
+    <title lang="es">Multimillonario encubierto</title>
+  </programme>
+  <programme start="20221001153700 -0300" stop="20221001163000 -0300" channel="Discovery Channel">
+    <title lang="es">Historias de fantasmas</title>
+  </programme>
+  <programme start="20221001163000 -0300" stop="20221001172600 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20221001172600 -0300" stop="20221001181900 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20221001181900 -0300" stop="20221001191500 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20221001191500 -0300" stop="20221001201100 -0300" channel="Discovery Channel">
+    <title lang="es">Diesel Dave</title>
+  </programme>
+  <programme start="20221001201100 -0300" stop="20221001210700 -0300" channel="Discovery Channel">
+    <title lang="es">Cambio de velocidad con Aaron Kaufman</title>
+  </programme>
+  <programme start="20221001210700 -0300" stop="20221001220000 -0300" channel="Discovery Channel">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20221001220000 -0300" stop="20221001225300 -0300" channel="Discovery Channel">
+    <title lang="es">Pesca mortal: experiencia extrema</title>
+  </programme>
+  <programme start="20221001225300 -0300" stop="20221001234600 -0300" channel="Discovery Channel">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20221001234600 -0300" stop="20221002004200 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220930234300 -0300" stop="20221001003800 -0300" channel="Home &amp; Health">
+    <title lang="es">Las renovadoras</title>
+  </programme>
+  <programme start="20221001003800 -0300" stop="20221001010300 -0300" channel="Home &amp; Health">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20221001010300 -0300" stop="20221001013300 -0300" channel="Home &amp; Health">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20221001013300 -0300" stop="20221001022500 -0300" channel="Home &amp; Health">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+  </programme>
+  <programme start="20221001022500 -0300" stop="20221001031200 -0300" channel="Home &amp; Health">
+    <title lang="es">Remodelaciones con celebridades</title>
+  </programme>
+  <programme start="20221001031200 -0300" stop="20221001035900 -0300" channel="Home &amp; Health">
+    <title lang="es">Como en casa</title>
+  </programme>
+  <programme start="20221001035900 -0300" stop="20221001044600 -0300" channel="Home &amp; Health">
+    <title lang="es">Renovaciones en Chicago</title>
+  </programme>
+  <programme start="20221001044600 -0300" stop="20221001053300 -0300" channel="Home &amp; Health">
+    <title lang="es">Las renovadoras</title>
+  </programme>
+  <programme start="20221001053300 -0300" stop="20221001060000 -0300" channel="Home &amp; Health">
+    <title lang="es">No sabía que estaba embarazada</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001062400 -0300" channel="Home &amp; Health">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20221001062400 -0300" stop="20221001071200 -0300" channel="Home &amp; Health">
+    <title lang="es">Demasiados kilos de más</title>
+  </programme>
+  <programme start="20221001071200 -0300" stop="20221001085000 -0300" channel="Home &amp; Health">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20221001085000 -0300" stop="20221001103100 -0300" channel="Home &amp; Health">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20221001103100 -0300" stop="20221001115000 -0300" channel="Home &amp; Health">
+    <title lang="es">Todo en 90 días</title>
+  </programme>
+  <programme start="20221001115000 -0300" stop="20221001124500 -0300" channel="Home &amp; Health">
+    <title lang="es">Todo en 90 días</title>
+  </programme>
+  <programme start="20221001124500 -0300" stop="20221001134000 -0300" channel="Home &amp; Health">
+    <title lang="es">La médium</title>
+  </programme>
+  <programme start="20221001134000 -0300" stop="20221001140500 -0300" channel="Home &amp; Health">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20221001140500 -0300" stop="20221001143500 -0300" channel="Home &amp; Health">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20221001143500 -0300" stop="20221001150000 -0300" channel="Home &amp; Health">
+    <title lang="es">Los cazahogares en la playa</title>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001153000 -0300" channel="Home &amp; Health">
+    <title lang="es">Los cazahogares en la playa</title>
+  </programme>
+  <programme start="20221001153000 -0300" stop="20221001162500 -0300" channel="Home &amp; Health">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20221001162500 -0300" stop="20221001181500 -0300" channel="Home &amp; Health">
+    <title lang="es">Gran-diosa</title>
+  </programme>
+  <programme start="20221001181500 -0300" stop="20221001191000 -0300" channel="Home &amp; Health">
+    <title lang="es">Vender para comprar</title>
+  </programme>
+  <programme start="20221001191000 -0300" stop="20221001193500 -0300" channel="Home &amp; Health">
+    <title lang="es">Un hogar único</title>
+  </programme>
+  <programme start="20221001193500 -0300" stop="20221001200500 -0300" channel="Home &amp; Health">
+    <title lang="es">Un hogar único</title>
+  </programme>
+  <programme start="20221001200500 -0300" stop="20221001210000 -0300" channel="Home &amp; Health">
+    <title lang="es">Vívala o véndala: Vancouver</title>
+  </programme>
+  <programme start="20221001210000 -0300" stop="20221001215300 -0300" channel="Home &amp; Health">
+    <title lang="es">Demasiados kilos de más</title>
+  </programme>
+  <programme start="20221001215300 -0300" stop="20221001234300 -0300" channel="Home &amp; Health">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20221001234300 -0300" stop="20221002003800 -0300" channel="Home &amp; Health">
+    <title lang="es">Locos por el ahorro</title>
+  </programme>
+  <programme start="20220930000800 -0300" stop="20220930010400 -0300" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220930010400 -0300" stop="20220930020100 -0300" channel="History Channel">
+    <title lang="es">Ciudades ocultas</title>
+  </programme>
+  <programme start="20220930020100 -0300" stop="20220930025500 -0300" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220930025500 -0300" stop="20220930032100 -0300" channel="History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220930032100 -0300" stop="20220930034700 -0300" channel="History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220930034700 -0300" stop="20220930041400 -0300" channel="History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220930041400 -0300" stop="20220930050700 -0300" channel="History Channel">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20220930050700 -0300" stop="20220930060000 -0300" channel="History Channel">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20220930060000 -0300" stop="20220930070000 -0300" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220930070000 -0300" stop="20220930080000 -0300" channel="History Channel">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20220930080000 -0300" stop="20220930090000 -0300" channel="History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220930090000 -0300" stop="20220930100000 -0300" channel="History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220930100000 -0300" stop="20220930103000 -0300" channel="History Channel">
+    <title lang="es">Trey y su fábrica de ataúdes</title>
+  </programme>
+  <programme start="20220930103000 -0300" stop="20220930113000 -0300" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220930113000 -0300" stop="20220930115900 -0300" channel="History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220930115900 -0300" stop="20220930122800 -0300" channel="History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220930122800 -0300" stop="20220930125600 -0300" channel="History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220930125600 -0300" stop="20220930132400 -0300" channel="History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220930132400 -0300" stop="20220930142200 -0300" channel="History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220930142200 -0300" stop="20220930152100 -0300" channel="History Channel">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20220930152100 -0300" stop="20220930162100 -0300" channel="History Channel">
+    <title lang="es">Misterios del pantano</title>
+  </programme>
+  <programme start="20220930162100 -0300" stop="20220930164900 -0300" channel="History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220930164900 -0300" stop="20220930171700 -0300" channel="History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220930171700 -0300" stop="20220930174400 -0300" channel="History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220930174400 -0300" stop="20220930181200 -0300" channel="History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220930181200 -0300" stop="20220930190800 -0300" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220930190800 -0300" stop="20220930200400 -0300" channel="History Channel">
+    <title lang="es">Grandes misterios de la historia</title>
+  </programme>
+  <programme start="20220930200400 -0300" stop="20220930210000 -0300" channel="History Channel">
+    <title lang="es">Aztecas: el oro perdido</title>
+  </programme>
+  <programme start="20220930210000 -0300" stop="20220930215800 -0300" channel="History Channel">
+    <title lang="es">Extraterrestres entre nosotros: España</title>
+  </programme>
+  <programme start="20220930215800 -0300" stop="20220930225500 -0300" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220930225500 -0300" stop="20220930232500 -0300" channel="History Channel">
+    <title lang="es">Ruta Ovni</title>
+  </programme>
+  <programme start="20220930232500 -0300" stop="20220930235700 -0300" channel="History Channel">
+    <title lang="es">Ruta Ovni</title>
+  </programme>
+  <programme start="20220930235700 -0300" stop="20221001005300 -0300" channel="History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220930005500 -0300" stop="20220930015300 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Las drogas de Hitler</title>
+  </programme>
+  <programme start="20220930015300 -0300" stop="20220930023700 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Mayday: catástrofes aéreas</title>
+  </programme>
+  <programme start="20220930023700 -0300" stop="20220930032100 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+  </programme>
+  <programme start="20220930032100 -0300" stop="20220930040500 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Solo contra el mundo</title>
+  </programme>
+  <programme start="20220930040500 -0300" stop="20220930044900 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220930044900 -0300" stop="20220930053300 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220930053300 -0300" stop="20220930055400 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220930055400 -0300" stop="20220930061600 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220930061600 -0300" stop="20220930063800 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20220930063800 -0300" stop="20220930070000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220930070000 -0300" stop="20220930073000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930073000 -0300" stop="20220930080000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930080000 -0300" stop="20220930083000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930083000 -0300" stop="20220930090000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930090000 -0300" stop="20220930093000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930093000 -0300" stop="20220930100000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930100000 -0300" stop="20220930103000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930103000 -0300" stop="20220930110000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220930110000 -0300" stop="20220930110400 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Programación especial</title>
+  </programme>
+  <programme start="20220930110400 -0300" stop="20220930110900 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Programación especial</title>
+  </programme>
+  <programme start="20220930110900 -0300" stop="20220930111100 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Programación especial</title>
+  </programme>
+  <programme start="20220930111100 -0300" stop="20220930114200 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220930114200 -0300" stop="20220930121200 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220930121200 -0300" stop="20220930131000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+  </programme>
+  <programme start="20220930131000 -0300" stop="20220930140900 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Salvajemente famosos</title>
+  </programme>
+  <programme start="20220930140900 -0300" stop="20220930150700 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Alaska: los nuevos pioneros</title>
+  </programme>
+  <programme start="20220930150700 -0300" stop="20220930160600 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Tiburones en el cielo</title>
+  </programme>
+  <programme start="20220930160600 -0300" stop="20220930170500 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Serpientes en la ciudad</title>
+  </programme>
+  <programme start="20220930170500 -0300" stop="20220930180400 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+  </programme>
+  <programme start="20220930180400 -0300" stop="20220930190400 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Tesoros perdidos de Egipto</title>
+  </programme>
+  <programme start="20220930190400 -0300" stop="20220930200100 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220930200100 -0300" stop="20220930210000 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220930210000 -0300" stop="20220930215700 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Alaska: los nuevos pioneros</title>
+  </programme>
+  <programme start="20220930215700 -0300" stop="20220930225600 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Salvajemente famosos: el desafìo</title>
+  </programme>
+  <programme start="20220930225600 -0300" stop="20220930235500 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Alaska: sabiduría nativa</title>
+  </programme>
+  <programme start="20220930235500 -0300" stop="20221001010300 -0300" channel="NATIONAL GEOGRAPHIC">
+    <title lang="es">Mujeres de la Alemania nazi</title>
+  </programme>
+  <programme start="20220930220000 -0300" stop="20221001000000 -0300" channel="TLC">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+  </programme>
+  <programme start="20221001000000 -0300" stop="20221001005200 -0300" channel="TLC">
+    <title lang="es">La vida después de prisión</title>
+  </programme>
+  <programme start="20221001005200 -0300" stop="20221001014400 -0300" channel="TLC">
+    <title lang="es">La médium</title>
+  </programme>
+  <programme start="20221001014400 -0300" stop="20221001023600 -0300" channel="TLC">
+    <title lang="es">Todo en 90 días: casados en el extranjero</title>
+  </programme>
+  <programme start="20221001023600 -0300" stop="20221001032800 -0300" channel="TLC">
+    <title lang="es">Todo en 90 días: casados en el extranjero</title>
+  </programme>
+  <programme start="20221001032800 -0300" stop="20221001051000 -0300" channel="TLC">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+  </programme>
+  <programme start="20221001051000 -0300" stop="20221001053500 -0300" channel="TLC">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20221001053500 -0300" stop="20221001060000 -0300" channel="TLC">
+    <title lang="es">Tacaños extremos</title>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001070000 -0300" channel="TLC">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20221001070000 -0300" stop="20221001080000 -0300" channel="TLC">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20221001080000 -0300" stop="20221001083000 -0300" channel="TLC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001090000 -0300" channel="TLC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001093000 -0300" channel="TLC">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20221001093000 -0300" stop="20221001100000 -0300" channel="TLC">
+    <title lang="es">La médium</title>
+  </programme>
+  <programme start="20221001100000 -0300" stop="20221001110000 -0300" channel="TLC">
+    <title lang="es">5 chicos, una semana</title>
+  </programme>
+  <programme start="20221001110000 -0300" stop="20221001120000 -0300" channel="TLC">
+    <title lang="es">5 chicos, una semana</title>
+  </programme>
+  <programme start="20221001120000 -0300" stop="20221001130000 -0300" channel="TLC">
+    <title lang="es">Adictas al matrimonio</title>
+  </programme>
+  <programme start="20221001130000 -0300" stop="20221001140000 -0300" channel="TLC">
+    <title lang="es">Amor de madre</title>
+  </programme>
+  <programme start="20221001140000 -0300" stop="20221001143000 -0300" channel="TLC">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20221001143000 -0300" stop="20221001150000 -0300" channel="TLC">
+    <title lang="es">Tacaños extremos</title>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001160000 -0300" channel="TLC">
+    <title lang="es">Una gran familia</title>
+  </programme>
+  <programme start="20221001160000 -0300" stop="20221001170000 -0300" channel="TLC">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20221001170000 -0300" stop="20221001180000 -0300" channel="TLC">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20221001180000 -0300" stop="20221001200000 -0300" channel="TLC">
+    <title lang="es">Todo en 90 días</title>
+  </programme>
+  <programme start="20221001200000 -0300" stop="20221001210000 -0300" channel="TLC">
+    <title lang="es">Mamá por encargo</title>
+  </programme>
+  <programme start="20221001210000 -0300" stop="20221001220000 -0300" channel="TLC">
+    <title lang="es">Mamá por encargo</title>
+  </programme>
+  <programme start="20221001220000 -0300" stop="20221001230300 -0300" channel="TLC">
+    <title lang="es">Amor sin prejuicios</title>
+  </programme>
+  <programme start="20221001230300 -0300" stop="20221002000300 -0300" channel="TLC">
+    <title lang="es">Amor de madre</title>
+  </programme>
+  <programme start="20220930233600 -0300" stop="20221001000000 -0300" channel="Discovery Science">
+    <title lang="es">Reto a la ciencia</title>
+  </programme>
+  <programme start="20221001022400 -0300" stop="20221001031200 -0300" channel="Discovery Science">
+    <title lang="es">La maldición del Triángulo de las Bermudas</title>
+  </programme>
+  <programme start="20221001031200 -0300" stop="20221001040000 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20221001040000 -0300" stop="20221001044800 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20221001044800 -0300" stop="20221001053600 -0300" channel="Discovery Science">
+    <title lang="es">Expedición X</title>
+  </programme>
+  <programme start="20221001053600 -0300" stop="20221001062400 -0300" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20221001062400 -0300" stop="20221001071200 -0300" channel="Discovery Science">
+    <title lang="es">La idea ganadora</title>
+  </programme>
+  <programme start="20221001071200 -0300" stop="20221001080000 -0300" channel="Discovery Science">
+    <title lang="es">Forenses al extremo</title>
+  </programme>
+  <programme start="20221001080000 -0300" stop="20221001084800 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20221001084800 -0300" stop="20221001093600 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20221001093600 -0300" stop="20221001102400 -0300" channel="Discovery Science">
+    <title lang="es">Expedición X</title>
+  </programme>
+  <programme start="20221001102400 -0300" stop="20221001111200 -0300" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20221001111200 -0300" stop="20221001120000 -0300" channel="Discovery Science">
+    <title lang="es">La idea ganadora</title>
+  </programme>
+  <programme start="20221001120000 -0300" stop="20221001124800 -0300" channel="Discovery Science">
+    <title lang="es">Forenses al extremo</title>
+  </programme>
+  <programme start="20221001124800 -0300" stop="20221001133600 -0300" channel="Discovery Science">
+    <title lang="es">Richard Hammond: a lo grande</title>
+  </programme>
+  <programme start="20221001133600 -0300" stop="20221001142400 -0300" channel="Discovery Science">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20221001142400 -0300" stop="20221001144800 -0300" channel="Discovery Science">
+    <title lang="es">Reto a la ciencia</title>
+  </programme>
+  <programme start="20221001144800 -0300" stop="20221001151200 -0300" channel="Discovery Science">
+    <title lang="es">Reto a la ciencia</title>
+  </programme>
+  <programme start="20221001151200 -0300" stop="20221001160000 -0300" channel="Discovery Science">
+    <title lang="es">Contacto alienígena</title>
+  </programme>
+  <programme start="20221001160000 -0300" stop="20221001164800 -0300" channel="Discovery Science">
+    <title lang="es">Guerra de genios</title>
+  </programme>
+  <programme start="20221001164800 -0300" stop="20221001173600 -0300" channel="Discovery Science">
+    <title lang="es">Guerra de genios</title>
+  </programme>
+  <programme start="20221001173600 -0300" stop="20221001182400 -0300" channel="Discovery Science">
+    <title lang="es">Guerra de genios</title>
+  </programme>
+  <programme start="20221001182400 -0300" stop="20221001191200 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20221001191200 -0300" stop="20221001200000 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20221001200000 -0300" stop="20221001202400 -0300" channel="Discovery Science">
+    <title lang="es">Trasplantes</title>
+  </programme>
+  <programme start="20221001202400 -0300" stop="20221001204800 -0300" channel="Discovery Science">
+    <title lang="es">Trasplantes</title>
+  </programme>
+  <programme start="20221001204800 -0300" stop="20221001211200 -0300" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20221001211200 -0300" stop="20221001213600 -0300" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20221001213600 -0300" stop="20221001222400 -0300" channel="Discovery Science">
+    <title lang="es">Silicon Valley</title>
+  </programme>
+  <programme start="20221001222400 -0300" stop="20221001231200 -0300" channel="Discovery Science">
+    <title lang="es">La idea ganadora</title>
+  </programme>
+  <programme start="20221001231200 -0300" stop="20221002000000 -0300" channel="Discovery Science">
+    <title lang="es">Tesla: crimen desclasificado</title>
+  </programme>
+</tv>

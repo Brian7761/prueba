@@ -1,0 +1,53 @@
+#EXTM3U x-tvg-url="file:///C:/Users/Brian/AppData/Local/WebGrab+Plus/guide.xml"
+#EXTINF:-1 site_id="3226_2266" xmltv_id="DISCOVERY ID HD" tvg-logo="http://imgfz.com/i/9VPWUSi.png" group-title="Documentales", DISCOVERY ID HD
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fyMXTjv.png" group-title="Documentales",Discovery Science
+https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/mv8NzSd.png" group-title="Películas",Discovery Channel
+https://is-tucuman.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/mv8NzSd.png" group-title="Películas",Discovery max
+https://pjs2aebsdqd93r7t.cdnexpress11.net:8443/hls/gvz5ao9w9ahax5.m3u8?s=4XAHYLq5hNNJloUoF16DFg&e=1664276157
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2H8tgnI.png" group-title="Películas",Discovery H&H
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/dxYR7eD.png" group-title="Películas",Discovery tlcs
+https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/GWe0XOv.png" group-title="Películas",History
+https://is-tucuman.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2felQOZ.png" group-title="Infantil",Nick
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/P84hXeu.png" group-title="Infantil",Nick Jr 
+https://is-tucuman.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ptgI3uk.png" group-title="Infantil",Disney Junior
+https://is-tucuman.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Y3a7c8j.png" group-title="Infantil",Discovery Kids
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/VgJANe6.png" group-title="Infantil",Cartoon Network
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ENa0Kog.png" group-title="Entretenimiento",A&E
+https://is-tucuman.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/z26URZ3.png" group-title="Entretenimiento",Star Channel
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7Obf0q2.png" group-title="Entretenimiento",Space
+https://is-tucuman.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/UfNn6Kr.png" group-title="Entretenimiento",Lifetime
+https://coteflan.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/qRE9QiJ.png" group-title="Entretenimiento",Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/VAUMysO.png" group-title="Entretenimiento",Sony Channel
+https://coteflan.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fELKpk2.png" group-title="Entretenimiento",Studio Universal
+https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zqbXrDt.png" group-title="Entretenimiento",Warner
+https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/f0KGpbj.png" group-title="Entretenimiento",AXN
+https://coteflan.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2JcPEaA.png" group-title="Entretenimiento",TNT Series
+https://is-cableat.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/cAbZQwo.png" group-title="Entretenimiento",TNT
+https://is-cableat.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ENa0Kog.png" group-title="Entretenimiento",vtv
+https://ed33.zorrohd2.nl/live/ST787d1e8f013e219.m3u8
